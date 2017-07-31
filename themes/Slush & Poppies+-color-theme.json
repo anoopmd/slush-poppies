@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Slush & Poppies (SL).tmTheme",
+	"colors": {
+		"editor.background": "#E5E3DA",
+		"editorCursor.foreground": "#000000",
+		"editor.foreground": "#000000",
+		"editorWhitespace.foreground": "#BFBFBF",
+		"editor.lineHighlightBackground": "#00000026",
+		"editor.selectionBackground": "#B0B0FF"
+	},
+	"name": "Slush & Poppies+"
+}
