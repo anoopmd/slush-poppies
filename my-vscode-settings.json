@@ -5,7 +5,22 @@
             "editor.background": "#f1f1f1",
             "sideBar.background": "#f1f1f1"
         }
-    },   
+    },
+    "editor.tokenColorCustomizations": {
+        "[Slush & Poppies+]": {
+            "textMateRules": [
+                {
+                    "name": "JSX Tags",
+                    "scope": [
+                        "support.class.component.js",
+                    ],
+                    "settings": {
+                        "foreground": "#9700a0"
+                    }
+                },
+            ]
+        },
+    },
     "editor.lineHeight": 28,
     "editor.fontSize": 16,
     "editor.fontFamily": "'Consolas', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
