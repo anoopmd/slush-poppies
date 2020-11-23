@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Slush & Poppies+",
+    "workbench.colorCustomizations": {
+        "[Slush & Poppies+]": {
+            "editor.background": "#f1f1f1",
+            "sideBar.background": "#f1f1f1"
+        }
+    },   
+    "editor.lineHeight": 28,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Consolas', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+}
